@@ -14,6 +14,5 @@ To get started with this library, ensure you have the Clang compiler installed o
 ### Installation
 1. Open a terminal and navigate to the project directory.
 1. Run make to compile the library and tests.
-1. Execute ./tests to run the unit tests and verify the library's functionality.
 ## Usage
 Include the library header in your C++ file to access its functionalities.
